@@ -21,3 +21,4 @@ while True:
 	if event == 'Submit':
 		print(event, values)
 okno.close()
+
