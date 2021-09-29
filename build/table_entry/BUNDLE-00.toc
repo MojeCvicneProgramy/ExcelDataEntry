@@ -1,0 +1,3 @@
+([('table_entry',
+   '/Users/renatacarna/IdeaProjects/ExcelDataEntry/dist/table_entry',
+   'EXECUTABLE')],)

@@ -2,7 +2,7 @@ import PySimpleGUI as sg
 import pandas as pd
 
 # výber farby formulára:
-sg.theme('DarkTeal9')
+sg.theme('LightBrown1')
 
 # vytvoriť tabuľku v Exceli tak, aby názvy stĺpcov boli pomenované presne ako keys v tomto programe
 # vloženie tabuľky do premennej EXCEL_FILE
